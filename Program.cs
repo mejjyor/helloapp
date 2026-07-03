@@ -1,5 +1,8 @@
 Console.WriteLine("hello everyone");
 
+GreetWhite();
+GreetBlack();
+
 static void GreetWhite()
 {
     Console.WriteLine("hello white");
